@@ -5,15 +5,3 @@
 .classpath
 .project
 .settings
-project-base/target/
-project-tests/target/
-drafts/
-/statusChangesDetails.txt
-/notValidTestName.txt
-/testRailKeywordsBackup.txt
-/todo.txt
-/notMatchedImplementedTests.txt
-/allure-report
-project-base/src/main/resources/spring/cuanto-settings.xml
-/recStatusChangesDetails.txt
-/target
